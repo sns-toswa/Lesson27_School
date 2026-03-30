@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.title('my game')
+root.title('Decoding and coding')
 root.geometry("400x200") 
 
 #menu
